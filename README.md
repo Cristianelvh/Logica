@@ -1,2 +1,2 @@
 # Lógica 
- Aprendendo lógica 
+ Aprendendo lógica.
